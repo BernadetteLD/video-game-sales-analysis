@@ -139,4 +139,5 @@ This project demonstrates how data visualization can be used to identify trends,
 [View on Tableau Public](https://public.tableau.com/views/VideoGameSalesAnalysisDashboard_17750292751070/VideoGameSalesAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Video Game Sales Analysis Dashboard.png)
+
